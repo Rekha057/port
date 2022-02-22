@@ -1,0 +1,18 @@
+{
+    "email": "rekhasam64@gmail.com",
+    "location": "mysore, karnataka , India",
+    "name": "Rekha S",
+    "phone": "",
+    "avatar": "assets/media/images/pic.jpg",
+    "education": [{
+        "title": "Bachelor of Engineering (BE) in Electronics and communication and Engineering",
+        "meta": "ATME College of Engi,  June 2017 – July 2021"
+    }],
+    "about": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, itaque, debitis veritatis architecto a eveniet dignissimos officia incidunt corporis voluptate provident illum modi esse? Illo, ex ipsam consequuntur hic debitis aliquam. Totam facilis nisi mollitia facere quis ratione inventore voluptatem, natus suscipit possimus, quaerat illo eos sit odio deserunt beatae!",
+    "socials": [{
+            "name": "rekhasam64@gmail.com",
+            "link": "rekhasam64@gmail.com",
+            "icon": "fa fa-envelope"
+        }
+    ]
+} 
